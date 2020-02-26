@@ -1,37 +1,202 @@
-## Welcome to GitHub Pages
+## 자연어처리 바이블: 핵심이론.응용시스템.딥러닝
 
-You can use the [editor on GitHub](https://github.com/nlpbible/nlpbible.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+첫 번째 파트에서는 자연어처리를 배우기 위하여 필요로 하는 수학, 언어학 등의 기본 지식과 파이프라인 방식의 자연어처리를 위한 각 단계들에 대한 핵심 원리를 설명한다. 두 번째 파트에서는 자연어처리 기술을 활용하여 개발될 수 있는 여러 가지 응용 시스템을 설명하고, 각 시스템의 기본 원리를 설명하였다. 세 번째 파트에서는 딥러닝 기술의 원리와 딥러닝 기술을 이용한 자연어처리 기술에 대하여 설명한다.  
+<br>
+[구매링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=233821145) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### PART I자연어처리 핵심 이론
+CHAPTER 1 자연어처리의 기본 3
+1.1 자연어처리란 3
+1.2 자연어처리의 응용 분야 6
+1.3 자연어처리는 왜 어려운가? 8
+1.4 자연어처리 연구의 패러다임 11
+1.5 딥러닝을 사용하는 자연어처리 연구 15
+참고문헌 18
+CHAPTER 2 자연어처리를 위한 수학 21
+2.1 확률의 기초 21
+2.2 MLE와 MAP 28
+2.3 정보이론과 엔트로피 31
+참고문헌 36
+CHAPTER 3 언어학의 기본 원리 37
+3.1 언어학 개요 37
+3.2 음절, 형태소, 어절 그리고 품사 37
+3.3 구구조와 의존구조 45
+3.4 의미론과 화용론 47
+참고문헌 49
+CHAPTER 4 텍스트의 전처리 51
+4.1 비정형 데이터 내의 오류 51
+4.2 텍스트 문서의 변환 53
+4.3 띄어쓰기 교정 방법 55
+4.4 철자 및 맞춤법 교정방법 59
+참고문헌 64
+CHAPTER 5 어휘 분석(Lexical Analysis) 67
+5.1 형태소 분석(Morphological Analysis) 67
+5.2 품사 태깅 72
+5.3 형태소 분석 및 품사 태깅기의 활용 분야 85
+참고문헌 85
+CHAPTER 6 구문 분석 87
+6.1 구문 분석 개요 87
+6.2 구구조 구문 분석 90
+6.3 의존 구문 분석 97
+6.4 구문 분석 접근 방법의 장단점 101
+6.5 더 알아보기 102
+참고문헌 105
+CHAPTER 7 의미 분석 107
+7.1 단어와 단어 의미 중의성 107
+7.2 단어 의미 중의성 해소 기법 108
+7.3 의미역(Semantic Role) 분석 114
+7.4 의미표현 116
+참고문헌 120
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PART II 자연어처리 응용시스템
+CHAPTER 8 개체명 인식(Named Entity Recognition) 125
+8.1 개체명 인식 소개 125
+8.2 개체명 인식이란 126
+8.3 NER 시스템 128
+8.4 NER 평가 척도 135
+8.5 BIO Tagging Scheme 136
+8.6 학습 코퍼스 136
+참고문헌 139
+CHAPTER 9 언어 모델(Language Model) 141
+9.1 언어 모델이란? 141
+9.2 통계적 언어 모델 141
+9.3 일반화(Generalization) 152
+9.4 모델 평가와 퍼플렉서티(Perplexity) 155
+참고문헌 158
+CHAPTER 10 정보추출(Information Extraction) 159
+10.1 정보추출이란 159
+10.2 정보추출의 학습 방법 160
+10.3 관계 추출(Relation Extraction) 162
+10.4 정보추출(관계 추출)의 접근법 163
+참고문헌 168
+CHAPTER 11 질의응답(Question & Answering) 171
+11.1 질의응답(Question & Answering)이란 171
+11.2 정보검색 기반 질의응답 172
+참고문헌 181
+CHAPTER 12 기계 번역(Machine Translation) 183
+12.1 기계 번역이란 183
+12.2 규칙 기반 기계번역 185
+12.3 통계 기반 기계번역 187
+12.4 구 기반 번역 192
+12.5 통계 모델을 이용한 실제 문장 번역 193
+참고문헌 194
+CHAPTER 13 자연어 생성 197
+13.1 배경 197
+13.2 지도 학습 기반 자연어 생성 199
+13.3 강화 학습 기반 자연어 생성 203
+13.4 적대 학습 기반 자연어 생성 205
+참고문헌 208
+CHAPTER 14 대화 시스템(Dialog System) 209
+14.1 대화 시스템 개론 209
+14.2 대화 시스템의 분류 218
+참고문헌 221
+CHAPTER 15 문서 요약(Text Summarization) 223
+15.1 문서 요약이란 223
+15.2 문서 요약 방법 224
+15.3 접근법 232
+15.4 평가 236
+참고문헌 237
+CHAPTER 16 텍스트 분류(Text Categorization) 239
+16.1 텍스트 분류란? 239
+16.2 일상 속 텍스트 분류 241
+16.3 감정분석이란 무엇인가? 242
+16.4 다양한 텍스트 분류 예시 244
+16.5 텍스트 분류 프로세스 245
+16.6 텍스트 분류, 군집화 알고리즘 248
+16.7 Scikit-Learn 252
+16.8 데이터 시각화 253
+참고문헌 255
 
-```markdown
-Syntax highlighted code block
+### PART III 딥러닝 기반 자연어처리
+CHAPTER 17 딥러닝의 소개 259
+17.1 딥러닝 개요 259
+17.2 딥러닝 모델의 핵심: 자동적인 계층적 자질 표상 습득 261
+17.3 딥러닝 시스템 구축을 위한 고려 사항: 데이터와 모델 구조 263
+17.4 딥러닝 모델의 뼈대: 퍼셉트론 265
+17.5 비선형 결정 경계와 활성 함수 267
+17.6 딥러닝 모델의 학습 268
+참고문헌 269
+CHAPTER 18 단어 임베딩 273
+18.1 단어 임베딩이란? 273
+18.2 분포 가설과 언어 모델링 275
+18.3 Word2vec 이전의 단어 임베딩 275
+18.4 Word2vec부터 ELMo 이전까지의 임베딩: 단어 단위 임베딩 277
+18.5 ELMo 이후의 임베딩: 문장 단위 임베딩 279
+18.6 한국어의 단어 임베딩과 입력의 최소 단위 283
+18.7 최신 연구 동향 284
+참고문헌 285
+CHAPTER 19 합성곱 신경망(Convolutional Neural Networks, CNN) 289
+19.1 CNN 개념 289
+19.2 CNN을 이용한 문장 분류 294
+참고문헌 299
+CHAPTER 20 순환 신경망(Recurrent Neural Networks, RNN) 301
+20.1 기본 순환 신경망(Vanilla Recurrent Neural Networks) 301
+20.2 응용 순환 신경망(Advanced Recurrent Neural Networks) 305
+20.3 순환 신경망 기반 자연어 생성 310
+참고문헌 312
+CHAPTER 21 딥러닝 기반 한국어 형태소 분석과 품사 태깅 315
+21.1 형태소 분석 품사 태깅 개요 315
+21.2 KoNLPy 형태소 분석 도구 소개[1] 318
+21.3 딥러닝 이전의 형태소 분석, 품사 태깅 소개 318
+21.4 딥러닝 기반 형태소 분석, 품사 태깅 소개 320
+참고문헌 324
+CHAPTER 22 딥러닝 기반 한국어 단어의미 분석 327
+22.1 한국어 의미역 분석 327
+22.2 심층학습 기반 단어 중의성 해소 331
+참고문헌 336
+CHAPTER 23 딥러닝 기반 개체명 인식(NER) 337
+23.1 딥러닝 기반 NER 337
+23.2 단어 단위의 구조 337
+23.3 문자 단위의 구조 338
+23.4 단어+문자 단위의 구조 339
+참고문헌 340
+CHAPTER 24 딥러닝 기반 Question & Answering 341
+24.1 딥러닝 기반 Question & Answering 341
+24.2 딥러닝 기반 Question & Answering 모델 343
+24.3 시각 질의응답(Visual Question Answering, VQA) 346
+참고문헌 350
+CHAPTER 25 딥러닝 기반 기계번역 353
+25.1 기계번역 소개 및 흐름 353
+25.2 딥러닝 기반 기계번역의 흐름 354
+25.3 Sequence to Sequence 구조와 인코더 디코더 356
+25.4 RNN 기반 Neural Machine Translation 357
+25.5 Attention의 등장 358
+25.6 Transformer 361
+25.7 Self-Attention 363
+25.8 Multi Head Attention 365
+25.9 Positional Encoding 366
+25.10 Residual & Layer Normalization 367
+25.11 Decoder 368
+25.12 Linear Layer & Softmax 368
+참고문헌 370
+CHAPTER 26 딥러닝 기반 문장생성 373
+26.1 순환 신경망 언어 모델을 이용한 문장 생성 374
+26.2 셀프 어텐션 기반 언어 모델을 이용한 문장 생성 378
+참고문헌 381
+CHAPTER 27 딥러닝 기반 문서 요약(Text Summarization) 383
+27.1 딥러닝 기반 문서 요약의 동향 383
+27.2 딥러닝 기반의 추상 요약 384
+참고문헌 392
+CHAPTER 28 딥러닝 기반 대화 시스템 393
+28.1 목적 지향 대화 시스템(Task-Oriented Dialogue System) 394
+28.2 비목적 지향 대화 시스템(챗봇 시스템) 399
+참고문헌 404
+CHAPTER 29 딥러닝을 이용한 SNS(Social Network Service) 분석 407
+29.1 SNS 407
+29.2 SNS 분석 409
+29.3 SNS 분석 기법 410
+참고문헌 417
+CHAPTER 30 응용: 이미지 캡션 생성 419
+30.1 이미지 캡션 생성 개요 419
+30.2 이미지 캡션 생성 과정 422
+30.3 이미지 캡션 생성 모델: Show & Tell 425
+30.4 훈련에 따른 성능변화 429
+참고문헌 432
+실습 435
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nlpbible/nlpbible.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 지은이 소개
+**임희석**<br>
+2008년부터 [고려대학교 컴퓨터학과 교수](http://cs.korea.ac.kr/cs/index.do)로 재직 중이다. 1992년 고려대학교 컴퓨터학과를 졸업하고, 97년 동대학원에서 박사학위를 받았다. 한국컴퓨터교육학회 논문지의 편집위원장을 역임하였으며, 현재 [Human inspired AI](http://hiai.co.kr/) 연구소장과 한국융합학회 부회장으로 활동 중이다.
+주요 연구분야는 자연어처리, 인공지능, 정보검색, 뇌 신경 언어처리이다. 저서로는 알기 쉬운 컴퓨팅 사고력(Human Science, 2017년), 컴퓨팅 사고력과 일상의 빅데이터(Human Science, 2016년), 도와주세요! 아이폰이 생겼어요(시리즈)(한빛미디어, 2010년~11년), 번역서로는 검색엔진:최신정보검색론(Human Science, 2011년), C++를 이용한 데이터 구조 및 알고리즘 분석(홍릉과학출판사, 2010년)이 있으며, 중학교 정보 교과서(천재교육, 2017년), 고등학교 정보 교과서(천재교육, 2017년), 중학교 정보 교과서(비상교육, 2018년) 그리고 고등학교 정보 교과서(비상교육, 2018년)를 집필하였다.
