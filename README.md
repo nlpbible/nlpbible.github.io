@@ -5,42 +5,41 @@
 [구매링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=233821145) 
 
 
-### PART I자연어처리 핵심 이론
-CHAPTER 1 자연어처리의 기본 3 <br>
-CHAPTER 2 자연어처리를 위한 수학 21<br>
-CHAPTER 3 언어학의 기본 원리 37<br>
-CHAPTER 4 텍스트의 전처리 51<br>
-CHAPTER 5 어휘 분석(Lexical Analysis) 67<br>
-CHAPTER 6 구문 분석 87<br>
-CHAPTER 7 의미 분석 107<br>
+### PART I 자연어처리 핵심 이론
+CHAPTER 1 자연어처리의 기본 [**PPT**]() [**실습**]() <br>
+CHAPTER 2 자연어처리를 위한 수학 [**PPT**]() [**실습**]() <br>
+CHAPTER 3 언어학의 기본 원리 [**PPT**]() [**실습**]() <br>
+CHAPTER 4 텍스트의 전처리 [**PPT**]() [**실습**]()<br>
+CHAPTER 5 어휘 분석(Lexical Analysis) [**PPT**]() [**실습**]()<br>
+CHAPTER 6 구문 분석 [**PPT**]() [**실습**]()<br>
+CHAPTER 7 의미 분석 [**PPT**]() [**실습**]()<br>
 
 ### PART II 자연어처리 응용시스템
-CHAPTER 8 개체명 인식(Named Entity Recognition) 125<br>
-CHAPTER 9 언어 모델(Language Model) 141<br>
-CHAPTER 10 정보추출(Information Extraction) 159<br>
-CHAPTER 11 질의응답(Question & Answering) 171<br>
-CHAPTER 12 기계 번역(Machine Translation) 183<br>
-CHAPTER 13 자연어 생성 197<br>
-CHAPTER 14 대화 시스템(Dialog System) 209<br>
-CHAPTER 15 문서 요약(Text Summarization) <br>
-CHAPTER 16 텍스트 분류(Text Categorization) <br>
+CHAPTER 8 개체명 인식(Named Entity Recognition) [**PPT**]() [**실습**]()<br>
+CHAPTER 9 언어 모델(Language Model) [**PPT**]() [**실습**]()<br>
+CHAPTER 10 정보추출(Information Extraction) [**PPT**]() [**실습**]()<br>
+CHAPTER 11 질의응답(Question & Answering) [**PPT**]() [**실습**]()<br>
+CHAPTER 12 기계 번역(Machine Translation) [**PPT**]() [**실습**]()<br>
+CHAPTER 13 자연어 생성 [**PPT**]() [**실습**]()<br>
+CHAPTER 14 대화 시스템(Dialog System) [**PPT**]() [**실습**]()<br>
+CHAPTER 15 문서 요약(Text Summarization) [**PPT**]() [**실습**]()<br>
+CHAPTER 16 텍스트 분류(Text Categorization) [**PPT**]() [**실습**]()<br>
 
 ### PART III 딥러닝 기반 자연어처리
-CHAPTER 17 딥러닝의 소개 <br>
-CHAPTER 18 단어 임베딩 <br>
-CHAPTER 19 합성곱 신경망(Convolutional Neural Networks, CNN) <br>
-CHAPTER 20 순환 신경망(Recurrent Neural Networks, RNN) <br>
-CHAPTER 21 딥러닝 기반 한국어 형태소 분석과 품사 태깅 <br>
-CHAPTER 22 딥러닝 기반 한국어 단어의미 분석 <br>
-CHAPTER 23 딥러닝 기반 개체명 인식(NER) <br>
-CHAPTER 24 딥러닝 기반 Question & Answering <br>
-CHAPTER 25 딥러닝 기반 기계번역 <br>
-CHAPTER 26 딥러닝 기반 문장생성 <br>
-CHAPTER 27 딥러닝 기반 문서 요약(Text Summarization) <br>
-CHAPTER 28 딥러닝 기반 대화 시스템 <br>
-CHAPTER 29 딥러닝을 이용한 SNS(Social Network Service) 분석 <br>
-CHAPTER 30 응용: 이미지 캡션 생성 <br>
-
+CHAPTER 17 딥러닝의 소개 [**PPT**]() [**실습**]()<br>
+CHAPTER 18 단어 임베딩 [**PPT**]() [**실습**]()<br>
+CHAPTER 19 합성곱 신경망(Convolutional Neural Networks, CNN) [**PPT**]() [**실습**]()<br>
+CHAPTER 20 순환 신경망(Recurrent Neural Networks, RNN) [**PPT**]() [**실습**]()<br>
+CHAPTER 21 딥러닝 기반 한국어 형태소 분석과 품사 태깅 [**PPT**]() [**실습**]()<br>
+CHAPTER 22 딥러닝 기반 한국어 단어의미 분석 [**PPT**]() [**실습**]()<br>
+CHAPTER 23 딥러닝 기반 개체명 인식(NER) [**PPT**]() [**실습**]()<br>
+CHAPTER 24 딥러닝 기반 Question & Answering [**PPT**]() [**실습**]()<br>
+CHAPTER 25 딥러닝 기반 기계번역 [**PPT**]() [**실습**]()<br>
+CHAPTER 26 딥러닝 기반 문장생성 [**PPT**]() [**실습**]()<br>
+CHAPTER 27 딥러닝 기반 문서 요약(Text Summarization) [**PPT**]() [**실습**]()<br>
+CHAPTER 28 딥러닝 기반 대화 시스템 [**PPT**]() [**실습**]()<br>
+CHAPTER 29 딥러닝을 이용한 SNS(Social Network Service) 분석 [**PPT**]() [**실습**]()<br>
+CHAPTER 30 응용: 이미지 캡션 생성 [**PPT**]() [**실습**]()<br>
 
 ### 지은이 소개
 **임희석**<br>
