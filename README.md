@@ -20,8 +20,8 @@ CHAPTER 9 언어 모델(Language Model) [**PPT**]() | [**실습**](https://githu
 CHAPTER 10 정보추출(Information Extraction) [**PPT**]() | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/10%EC%9E%A5_Information%20Extraction)<br>
 CHAPTER 11 질의응답(Question & Answering) [**PPT**]() <br>
 CHAPTER 12 기계 번역(Machine Translation) [**PPT**]() <br>
-CHAPTER 13 자연어 생성 [**PPT**]() | [**실습**]()https://github.com/nlpai-lab/nlp-bible-code/tree/master/13%EC%9E%A5_%EC%9E%90%EC%97%B0%EC%96%B4%EC%83%9D%EC%84%B1<br>
-CHAPTER 14 대화 시스템(Dialog System) [**PPT**]() | [**실습**]()<br>
+CHAPTER 13 자연어 생성 [**PPT**]() | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/13%EC%9E%A5_%EC%9E%90%EC%97%B0%EC%96%B4%EC%83%9D%EC%84%B1)<br>
+CHAPTER 14 대화 시스템(Dialog System) [**PPT**]() <br>
 CHAPTER 15 문서 요약(Text Summarization) [**PPT**]() | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/15%EC%9E%A5_Text%20summarization)<br>
 CHAPTER 16 텍스트 분류(Text Categorization) [**PPT**]() | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/16%EC%9E%A5_%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%B6%84%EB%A5%98)<br>
 
@@ -39,7 +39,7 @@ CHAPTER 26 딥러닝 기반 문장생성 [**PPT**]() | [**실습**](https://gith
 CHAPTER 27 딥러닝 기반 문서 요약(Text Summarization) [**PPT**]() | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/27%EC%9E%A5_%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B8%B0%EB%B0%98%20Text%20summarization)<br>
 CHAPTER 28 딥러닝 기반 대화 시스템 [**PPT**]() <br>
 CHAPTER 29 딥러닝을 이용한 SNS(Social Network Service) 분석 [**PPT**]() | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/29%EC%9E%A5_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20SNS(Social%20Network%20Service)%20%EB%B6%84%EC%84%9D)<br>
-CHAPTER 30 응용: 이미지 캡션 생성 [**PPT**]() | [**실습**]()<br>
+CHAPTER 30 응용: 이미지 캡션 생성 [**PPT**]() <br>
 
 ### 지은이 소개
 **임희석**<br>
