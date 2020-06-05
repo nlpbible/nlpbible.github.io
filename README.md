@@ -6,7 +6,7 @@
 
 
 ### PART I 자연어처리 핵심 이론
-CHAPTER 1 자연어처리의 기본 [**PPT**]()  <br>
+CHAPTER 1 자연어처리의 기본 [**PPT**](https://drive.google.com/file/d/1gICiJDypeSBCEmF8bFmbPYEE2jHpd4qp/view?usp=sharing)  <br>
 CHAPTER 2 자연어처리를 위한 수학 [**PPT**]()  <br>
 CHAPTER 3 언어학의 기본 원리 [**PPT**]() <br>
 CHAPTER 4 텍스트의 전처리 [**PPT**]() <br>
