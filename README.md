@@ -6,21 +6,21 @@
 
 
 ### PART I 자연어처리 핵심 이론
-CHAPTER 1 자연어처리의 기본 [**PPT**](https://drive.google.com/file/d/1gICiJDypeSBCEmF8bFmbPYEE2jHpd4qp/view?usp=sharing)  <br>
-CHAPTER 2 자연어처리를 위한 수학 [**PPT**](https://drive.google.com/file/d/1oJsztGt0FYr026eVg5XF10DjPKlwa70Z/view?usp=sharing)  <br>
-CHAPTER 3 언어학의 기본 원리 [**PPT**](https://drive.google.com/file/d/1xkpXoDRsX3jIEVSJgOxPj9inCYGPyTaR/view?usp=sharing) <br>
-CHAPTER 4 텍스트의 전처리 [**PPT**](https://drive.google.com/file/d/1S-gAnWMBcIkwjk1iCZYzZBijByXX5PlG/view?usp=sharing) <br>
-CHAPTER 5 어휘 분석(Lexical Analysis) [**PPT**](https://drive.google.com/file/d/1Dc04sNnBRXc4SxaWTEfeqgxC_8ezN2Wl/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/05%EC%9E%A5_%EC%96%B4%ED%9C%98%EB%B6%84%EC%84%9D)<br>
-CHAPTER 6 구문 분석 [**PPT**](https://drive.google.com/file/d/13gOIH0UWR20zJCzTObDMwKM1GauJuiEU/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/06%EC%9E%A5_%EC%9D%98%EC%A1%B4%EB%B6%84%EC%84%9D)<br>
-CHAPTER 7 의미 분석 [**PPT**](https://drive.google.com/file/d/1j4kOa7K_S2IulhqOUUUrtqPW7CFyQD7w/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/07%EC%9E%A5_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
+CHAPTER 1 자연어처리의 기본 [**PPT**](http://drive.google.com/uc?export=view&id=1atSnLox7r0lZqLanaabyNpKg0AbLzj1y)  <br>
+CHAPTER 2 자연어처리를 위한 수학 [**PPT**](http://drive.google.com/uc?export=view&id=1lvNaQllwVQvmQGSwi0lBTxEWagG4D3aD)  <br>
+CHAPTER 3 언어학의 기본 원리 [**PPT**](http://drive.google.com/uc?export=view&id=10zVqFoGs8_5yxmC3vuud1G4HOimfdcY1) <br>
+CHAPTER 4 텍스트의 전처리 [**PPT**](http://drive.google.com/uc?export=view&id=1lJHyGKEx76CuUyE4C-8fc0Wgn5V3V4GX) <br>
+CHAPTER 5 어휘 분석(Lexical Analysis) [**PPT**](http://drive.google.com/uc?export=view&id=1p7hSGWSDU4AgxF12i2PC-Li2YJ_jRgC1) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/05%EC%9E%A5_%EC%96%B4%ED%9C%98%EB%B6%84%EC%84%9D)<br>
+CHAPTER 6 구문 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1rNlOEamyno3YzCFzSmuhvlS52nUJuFGU) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/06%EC%9E%A5_%EC%9D%98%EC%A1%B4%EB%B6%84%EC%84%9D)<br>
+CHAPTER 7 의미 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1LsgVOh3w1kAHFId7rvU7-XLyvst1l4FP) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/07%EC%9E%A5_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
 
 ### PART II 자연어처리 응용시스템
-CHAPTER 8 개체명 인식(Named Entity Recognition) [**PPT**](https://drive.google.com/file/d/1CdEZURSHQFZSbTKh3de5_A7UfTPCS3oJ/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/08%EC%9E%A5_%EA%B0%9C%EC%B2%B4%EB%AA%85%EC%9D%B8%EC%8B%9D)<br>
-CHAPTER 9 언어 모델(Language Model) [**PPT**](https://drive.google.com/file/d/1eXXYK6YnJROPA-gs-b6OYkU_hc8ZVTt0/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/09%EC%9E%A5_%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8)<br>
-CHAPTER 10 정보추출(Information Extraction) [**PPT**](https://drive.google.com/file/d/10O3tb3SenjOEEesPj6NWBjLVSsty9Fv-/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/10%EC%9E%A5_Information%20Extraction)<br>
-CHAPTER 11 질의응답(Question & Answering) [**PPT**](https://drive.google.com/file/d/1pcgg3zpF-o2KRliBDvWax6BEP72nTwig/view?usp=sharing) <br>
-CHAPTER 12 기계 번역(Machine Translation) [**PPT**](https://drive.google.com/file/d/1pbSLjrZtt4BB-kLTTFnuPGBnqgb3KPH6/view?usp=sharing) <br>
-CHAPTER 13 자연어 생성 [**PPT**](https://drive.google.com/file/d/1_mAItf6f_j6oj7nDHYcLEAy8awtddtI0/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/13%EC%9E%A5_%EC%9E%90%EC%97%B0%EC%96%B4%EC%83%9D%EC%84%B1)<br>
+CHAPTER 8 개체명 인식(Named Entity Recognition) [**PPT**](http://drive.google.com/uc?export=view&id=11c-ZI1wLzwOyskfuco7717b8hhYinRnJ) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/08%EC%9E%A5_%EA%B0%9C%EC%B2%B4%EB%AA%85%EC%9D%B8%EC%8B%9D)<br>
+CHAPTER 9 언어 모델(Language Model) [**PPT**](http://drive.google.com/uc?export=view&id=1GOtRNRrnwDWxsTVIdHpdSSO9bk-64Erl) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/09%EC%9E%A5_%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8)<br>
+CHAPTER 10 정보추출(Information Extraction) [**PPT**](http://drive.google.com/uc?export=view&id=1Cpe9lZQlBZ8DDp-hrnB2PO_xEmPxgdPm) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/10%EC%9E%A5_Information%20Extraction)<br>
+CHAPTER 11 질의응답(Question & Answering) [**PPT**](http://drive.google.com/uc?export=view&id=1fGF8q7WzrPSEpFB-TDEpxOFMwOL6sHJF) <br>
+CHAPTER 12 기계 번역(Machine Translation) [**PPT**](http://drive.google.com/uc?export=view&id=10RUaY56RXBxoKmeBmUW-oEuY6gbXWAuV) <br>
+CHAPTER 13 자연어 생성 [**PPT**](http://drive.google.com/uc?export=view&id=18D7O11M_en-dmnpdjEQG5XUPndu0Wg-j) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/13%EC%9E%A5_%EC%9E%90%EC%97%B0%EC%96%B4%EC%83%9D%EC%84%B1)<br>
 CHAPTER 14 대화 시스템(Dialog System) [**PPT**](https://drive.google.com/file/d/1W6ra_E_FYJyA5PCSNn3LqjUO2oMY806c/view?usp=sharing) <br>
 CHAPTER 15 문서 요약(Text Summarization) [**PPT**](https://drive.google.com/file/d/1mdNZbqukeJNwV6BOmZKL1-rtDzOS7Go-/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/15%EC%9E%A5_Text%20summarization)<br>
 CHAPTER 16 텍스트 분류(Text Categorization) [**PPT**](https://drive.google.com/file/d/1bDIoIcYDUPJgBKCjhdkhqRRuIXcXS_5t/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/16%EC%9E%A5_%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%B6%84%EB%A5%98)<br>
