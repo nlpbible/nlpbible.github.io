@@ -12,11 +12,11 @@ CHAPTER 3 언어학의 기본 원리 [**PPT**](http://drive.google.com/uc?export
 CHAPTER 4 텍스트의 전처리 [**PPT**](http://drive.google.com/uc?export=view&id=1lJHyGKEx76CuUyE4C-8fc0Wgn5V3V4GX) <br>
 CHAPTER 5 어휘 분석(Lexical Analysis) [**PPT**](http://drive.google.com/uc?export=view&id=1p7hSGWSDU4AgxF12i2PC-Li2YJ_jRgC1) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/05%EC%9E%A5_%EC%96%B4%ED%9C%98%EB%B6%84%EC%84%9D)<br>
 CHAPTER 6 구문 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1rNlOEamyno3YzCFzSmuhvlS52nUJuFGU) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/06%EC%9E%A5_%EC%9D%98%EC%A1%B4%EB%B6%84%EC%84%9D)<br>
-CHAPTER 7 의미 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1LsgVOh3w1kAHFId7rvU7-XLyvst1l4FP) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/07%EC%9E%A5_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
+CHAPTER 7 의미 분석 [**PPT**](https://drive.google.com/file/d/1LsgVOh3w1kAHFId7rvU7-XLyvst1l4FP/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/07%EC%9E%A5_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
 
 ### PART II 자연어처리 응용시스템
 CHAPTER 8 개체명 인식(Named Entity Recognition) [**PPT**](http://drive.google.com/uc?export=view&id=11c-ZI1wLzwOyskfuco7717b8hhYinRnJ) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/08%EC%9E%A5_%EA%B0%9C%EC%B2%B4%EB%AA%85%EC%9D%B8%EC%8B%9D)<br>
-CHAPTER 9 언어 모델(Language Model) [**PPT**](http://drive.google.com/uc?export=view&id=1GOtRNRrnwDWxsTVIdHpdSSO9bk-64Erl) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/09%EC%9E%A5_%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8)<br>
+CHAPTER 9 언어 모델(Language Model) [**PPT**](https://drive.google.com/file/d/1GOtRNRrnwDWxsTVIdHpdSSO9bk-64Erl/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/09%EC%9E%A5_%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8)<br>
 CHAPTER 10 정보추출(Information Extraction) [**PPT**](http://drive.google.com/uc?export=view&id=1Cpe9lZQlBZ8DDp-hrnB2PO_xEmPxgdPm) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/10%EC%9E%A5_Information%20Extraction)<br>
 CHAPTER 11 질의응답(Question & Answering) [**PPT**](http://drive.google.com/uc?export=view&id=1fGF8q7WzrPSEpFB-TDEpxOFMwOL6sHJF) <br>
 CHAPTER 12 기계 번역(Machine Translation) [**PPT**](http://drive.google.com/uc?export=view&id=10RUaY56RXBxoKmeBmUW-oEuY6gbXWAuV) <br>
@@ -26,9 +26,9 @@ CHAPTER 15 문서 요약(Text Summarization) [**PPT**](http://drive.google.com/u
 CHAPTER 16 텍스트 분류(Text Categorization) [**PPT**](http://drive.google.com/uc?export=view&id=176M3ZsmP_-ME9FBDTYhIqf8t-RfS-SHA) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/16%EC%9E%A5_%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%B6%84%EB%A5%98)<br>
 
 ### PART III 딥러닝 기반 자연어처리
-CHAPTER 17 딥러닝의 소개 [**PPT**](http://drive.google.com/uc?export=view&id=1TUtPBgxGKIFCe3q_N2l88zuUelluE1Qe) <br>
-CHAPTER 18 단어 임베딩 [**PPT**](http://drive.google.com/uc?export=view&id=1YxFFZ2x6PhpulV6LnANdGBRSGggWS_KI) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/18%EC%9E%A5_%EB%8B%A8%EC%96%B4%20%EC%9E%84%EB%B2%A0%EB%94%A9)<br>
-CHAPTER 19 합성곱 신경망(Convolutional Neural Networks, CNN) [**PPT**](http://drive.google.com/uc?export=view&id=1T8eRwhPrsAZCJNR0xzGbjH0BGE-jj7t9) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/19%EC%9E%A5_%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D)<br>
+CHAPTER 17 딥러닝의 소개 [**PPT**](https://drive.google.com/file/d/1TUtPBgxGKIFCe3q_N2l88zuUelluE1Qe/view?usp=sharing) <br>
+CHAPTER 18 단어 임베딩 [**PPT**](https://drive.google.com/file/d/13JjSTNA4KmEpBtX4mFBoPE60T-2Dpk8c/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/18%EC%9E%A5_%EB%8B%A8%EC%96%B4%20%EC%9E%84%EB%B2%A0%EB%94%A9)<br>
+CHAPTER 19 합성곱 신경망(Convolutional Neural Networks, CNN) [**PPT**](https://drive.google.com/file/d/1T8eRwhPrsAZCJNR0xzGbjH0BGE-jj7t9/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/19%EC%9E%A5_%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D)<br>
 CHAPTER 20 순환 신경망(Recurrent Neural Networks, RNN) [**PPT**](http://drive.google.com/uc?export=view&id=1kkse2sQrzLe0UhVsXUwOBV-Ip0oF2FCK) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/20%EC%9E%A5_%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D)<br>
 CHAPTER 21 딥러닝 기반 한국어 형태소 분석과 품사 태깅 [**PPT**](http://drive.google.com/uc?export=view&id=1DqPhmeezcWWUPhQY1O8OAPrbxdf_ntiY) <br>
 CHAPTER 22 딥러닝 기반 한국어 단어의미 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1hD5k3NKNj6spRifKzPNkSI8fS8yBf4Nb) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/22%EC%9E%A5_%EC%8B%AC%EC%B8%B5%ED%95%99%EC%8A%B5%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
