@@ -6,13 +6,13 @@
 
 
 ### PART I 자연어처리 핵심 이론
-CHAPTER 1 자연어처리의 기본 [**PPT**](http://drive.google.com/uc?export=view&id=1T6JX4WQVQmoicbufxaFSX-BERUuOQfWI)  <br>
-CHAPTER 2 자연어처리를 위한 수학 [**PPT**](http://drive.google.com/uc?export=view&id=1lvNaQllwVQvmQGSwi0lBTxEWagG4D3aD)  <br>
-CHAPTER 3 언어학의 기본 원리 [**PPT**](http://drive.google.com/uc?export=view&id=10zVqFoGs8_5yxmC3vuud1G4HOimfdcY1) <br>
-CHAPTER 4 텍스트의 전처리 [**PPT**](http://drive.google.com/uc?export=view&id=1lJHyGKEx76CuUyE4C-8fc0Wgn5V3V4GX) <br>
-CHAPTER 5 어휘 분석(Lexical Analysis) [**PPT**](http://drive.google.com/uc?export=view&id=1p7hSGWSDU4AgxF12i2PC-Li2YJ_jRgC1) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/05%EC%9E%A5_%EC%96%B4%ED%9C%98%EB%B6%84%EC%84%9D)<br>
-CHAPTER 6 구문 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1rNlOEamyno3YzCFzSmuhvlS52nUJuFGU) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/06%EC%9E%A5_%EC%9D%98%EC%A1%B4%EB%B6%84%EC%84%9D)<br>
-CHAPTER 7 의미 분석 [**PPT**](http://drive.google.com/uc?export=view&id=1LsgVOh3w1kAHFId7rvU7-XLyvst1l4FP) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/07%EC%9E%A5_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
+CHAPTER 1 자연어처리의 기본 [**PPT**](https://drive.google.com/file/d/1T6JX4WQVQmoicbufxaFSX-BERUuOQfWI/view?usp=sharing)  <br>
+CHAPTER 2 자연어처리를 위한 수학 [**PPT**](https://drive.google.com/file/d/1lvNaQllwVQvmQGSwi0lBTxEWagG4D3aD/view?usp=sharing)  <br>
+CHAPTER 3 언어학의 기본 원리 [**PPT**](https://drive.google.com/file/d/10zVqFoGs8_5yxmC3vuud1G4HOimfdcY1/view?usp=sharing) <br>
+CHAPTER 4 텍스트의 전처리 [**PPT**](https://drive.google.com/file/d/1lJHyGKEx76CuUyE4C-8fc0Wgn5V3V4GX/view?usp=sharing) <br>
+CHAPTER 5 어휘 분석(Lexical Analysis) [**PPT**](https://drive.google.com/file/d/1p7hSGWSDU4AgxF12i2PC-Li2YJ_jRgC1/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/05%EC%9E%A5_%EC%96%B4%ED%9C%98%EB%B6%84%EC%84%9D)<br>
+CHAPTER 6 구문 분석 [**PPT**](https://drive.google.com/file/d/1rNlOEamyno3YzCFzSmuhvlS52nUJuFGU/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/06%EC%9E%A5_%EC%9D%98%EC%A1%B4%EB%B6%84%EC%84%9D)<br>
+CHAPTER 7 의미 분석 [**PPT**](https://drive.google.com/file/d/1LsgVOh3w1kAHFId7rvU7-XLyvst1l4FP/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/07%EC%9E%A5_%EC%9D%98%EB%AF%B8%EB%B6%84%EC%84%9D)<br>
 
 ### PART II 자연어처리 응용시스템
 
