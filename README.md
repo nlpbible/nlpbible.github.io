@@ -37,7 +37,7 @@ CHAPTER 24 딥러닝 기반 질의응답 [**PPT**](https://drive.google.com/file
 CHAPTER 25 딥러닝 기반 기계번역 [**PPT**](https://drive.google.com/file/d/1XFx3VMGwshVfEH_wwALwzazJU-rB0bXe/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/25%EC%9E%A5_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD)<br>
 CHAPTER 26 딥러닝 기반 문장생성 [**PPT**](https://drive.google.com/file/d/1yznPOgqcBo6eJ3zr1nEcd-S4fwace8f3/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/26%EC%9E%A5_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EB%AC%B8%EC%9E%A5%EC%83%9D%EC%84%B1)<br>
 CHAPTER 27 딥러닝 기반 문서 요약 [**PPT**](https://drive.google.com/file/d/1YpE5gCDKdzcZACw_O3NpQKk6aUBUrNAs/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/27%EC%9E%A5_%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B8%B0%EB%B0%98%20Text%20summarization)<br>
-CHAPTER 28 딥러닝 기반 대화 시스템 [**PPT**](https://drive.google.com/file/d/1xd4UVA-xd9ybZWVH0e5kLq0qNzeUfle8/view?usp=sharing) <br>
+CHAPTER 28 딥러닝 기반 대화 시스템 [**PPT**](https://drive.google.com/file/d/1HyWGk9fEj5oqvAky8Bf6vlf1zYIwvKWr/view?usp=sharing) <br>
 CHAPTER 29 딥러닝을 이용한 SNS(Social Network Service) 분석 [**PPT**](https://drive.google.com/file/d/1b5I_4hNSbeN0IW5G0lMaNcHO7TqqLStJ/view?usp=sharing) | [**실습**](https://github.com/nlpai-lab/nlp-bible-code/tree/master/29%EC%9E%A5_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20SNS(Social%20Network%20Service)%20%EB%B6%84%EC%84%9D)<br>
 CHAPTER 30 응용: 이미지 캡션 생성 [**PPT**](https://drive.google.com/file/d/1uBMQFq1PzxXt4qxSz8zTWpg5aL48DT-J/view?usp=sharing) <br>
 CHAPTER 31 가짜뉴스 탐지 <br>
